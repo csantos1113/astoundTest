@@ -1,0 +1,11 @@
+{
+  "name": "astoundTest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Cesar Santos",
+  "license": "ISC"
+}
